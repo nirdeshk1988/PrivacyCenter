@@ -29,7 +29,5 @@
 	};
 </script>
 <script type='text/javascript' src='https://hsecovax--dev31.sandbox.my.site.com/ESWMIAWforBotonGit1707755430647/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
-
-
 </body>
 </html>
